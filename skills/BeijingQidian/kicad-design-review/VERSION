@@ -1,0 +1,3 @@
+upstream: https://github.com/aklofas/kicad-happy
+commit: 0fc045af790ae35c475697813c3a8d76259a8811
+vendored: 2026-09-01
